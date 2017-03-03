@@ -9,7 +9,7 @@ part of a udemy course
 
 
 ## Screenshot
-![screenshot](https://github.com/kolldavi/ScraperApp/blob/master/ScraperApp/ScreenShot.png?raw=true)
+![screenshot](https://github.com/kolldavi/ScraperApp/blob/master/ScreenShot.png)
 
 
 
